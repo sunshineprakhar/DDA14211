@@ -1,1 +1,1 @@
-
+We are implementing randomized quick sort here. We are processing large dataset, that are extracted from the 4 different CSV files and we are performing quick sort over these data to analyze the time compleity. So, for every csv file records, we are measuring the time complexity to ort the record and we are storing the results into varibale. After 4 different CSV files, we draw a graph using matplotlib. Which clearly shows that line is non-linear.
